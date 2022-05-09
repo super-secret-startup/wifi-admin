@@ -1,5 +1,6 @@
 coverage
 
+
 # Ignore all hidden files
 .*
 **/.*
